@@ -1,0 +1,30 @@
+{
+  "name": "prstyocode/coinmarketcap-wrapper",
+  "description": "PHP wrapper for CoinMarketCap API.",
+  "type": "library",
+  "require": {
+    "php": ">=4.0.2"
+  },
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Tyo",
+      "email": "null@mail.com"
+    }
+  ],
+  "minimum-stability": "dev",
+  "autoload": {
+    "psr-4": {
+      "Prstyocode\\CMCWrapper\\": "src"
+    }
+  },
+  "autoload-dev": {
+    "psr-4": {
+      "Prstyocode\\CMCWrapper\\Test\\": "tests"
+    }
+  },
+  "require-dev": {
+    "phpunit/phpunit": "^9.4@dev",
+    "vlucas/phpdotenv": "^5.1@dev"
+  }
+}
