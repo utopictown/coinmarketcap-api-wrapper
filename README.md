@@ -1,7 +1,7 @@
 # coinmarketcap-wrapper
 PHP wrapper for CoinMarketCap API
 
-currently only support cryptocurrency API https://coinmarketcap.com/api/documentation/v1/#tag/cryptocurrency
+currently support only for cryptocurrency API https://coinmarketcap.com/api/documentation/v1/#tag/cryptocurrency
 
 <h3>USAGE</h3>
 
