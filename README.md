@@ -12,3 +12,17 @@ currently support only for cryptocurrency API https://coinmarketcap.com/api/docu
 get list of all active cryptocurrencies with latest market data.
 <pre>$cmc->getCryptocurrencyListingsLatest(['convert' => 'IDR']);</pre>
 for more params please see https://coinmarketcap.com/api/documentation/v1/
+
+<h4>Available Hook</h4>
+<ul>
+  <li>getCryptocurrencyMap</li>
+  <li>getCryptocurrencyInfo</li>
+  <li>getCryptocurrencyListingsHistorical</li>
+  <li>getCryptocurrencyListingsLatest</li>
+  <li>getCryptocurrencyMarketPairs</li>
+  <li>getCryptocurrencyOHLCVHistorical</li>
+  <li>getCryptocurrencyOHLCVLatest</li>
+  <li>getCryptocurrencyPerformanceStats</li>
+  <li>getCryptocurrencyQuotesHistorical</li>
+  <li>getCryptocurrencyQuotesLatest</li>
+</ul>
