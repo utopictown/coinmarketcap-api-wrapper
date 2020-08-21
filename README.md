@@ -7,6 +7,7 @@ currently support only for cryptocurrency API https://coinmarketcap.com/api/docu
 <pre>composer require prstyocode/coinmarketcap-wrapper</pre>
 <h3>USAGE</h3>
 
+<pre>use Prstyocode\CMCWrapper\CMCWrapper;</pre>
 <pre>$cmc = new CMCWrapper(YOUR_API_KEY)</pre>
 get list of all active cryptocurrencies with latest market data.
 <pre>$cmc->getCryptocurrencyListingsLatest(['convert' => 'IDR']);</pre>
