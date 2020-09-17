@@ -4,7 +4,7 @@ PHP wrapper for CoinMarketCap API
 currently support only for cryptocurrency API https://coinmarketcap.com/api/documentation/v1/#tag/cryptocurrency
 
 <h3>INSTALLATION</h3>
-<pre>composer require prstyocode/coinmarketcap-wrapper</pre>
+<pre>composer require utopictown/coinmarketcap-api-wrapper</pre>
 <h3>USAGE</h3>
 
 <pre>use Prstyocode\CMCWrapper\CMCWrapper;</pre>
