@@ -1,5 +1,5 @@
 {
-  "name": "prstyocode/coinmarketcap-wrapper",
+  "name": "utopictown/coinmarketcap-api-wrapper",
   "description": "PHP wrapper for CoinMarketCap API.",
   "type": "library",
   "require": {
