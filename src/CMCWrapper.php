@@ -1,10 +1,10 @@
 <?php
 
 /**
- * (c) Tyo (prstyocode)
+ * (c) Tyo (utopictown)
  */
 
-namespace Prstyocode\CMCWrapper;
+namespace Utopictown\CMCWrapper;
 
 class CMCWrapper
 {
