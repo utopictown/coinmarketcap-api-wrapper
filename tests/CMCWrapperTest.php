@@ -1,10 +1,10 @@
 <?php
 
-namespace Prstyocode\CMCWrapper\Test;
+namespace Utopictown\CMCWrapper\Test;
 
 use Dotenv\Dotenv;
 use PHPUnit\Framework\TestCase;
-use Prstyocode\CMCWrapper\CMCWrapper;
+use Utopictown\CMCWrapper\CMCWrapper;
 
 class CMCWrapperTest extends TestCase
 {
