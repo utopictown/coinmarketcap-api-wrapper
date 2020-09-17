@@ -15,12 +15,12 @@
   "minimum-stability": "dev",
   "autoload": {
     "psr-4": {
-      "Prstyocode\\CMCWrapper\\": "src"
+      "Utopictown\\CMCWrapper\\": "src"
     }
   },
   "autoload-dev": {
     "psr-4": {
-      "Prstyocode\\CMCWrapper\\Test\\": "tests"
+      "Utopictown\\CMCWrapper\\Test\\": "tests"
     }
   },
   "require-dev": {
